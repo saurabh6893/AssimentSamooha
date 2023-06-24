@@ -1,0 +1,10 @@
+body {
+  background-color: wheat;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+}
