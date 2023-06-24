@@ -70,6 +70,10 @@ const App = () => {
         </button>
       </div>
       <ToastContainer />
+
+      <div className="note">
+        Note:You can later Login to samooha as a <strong>provider</strong> or <strong>consumer</strong>
+      </div>
     </div>
   );
 };
